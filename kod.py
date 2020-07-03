@@ -10,4 +10,6 @@ print(iin)
 wiek = c
 
 print("Twój wiek: ")
+
+
 print(wiek)
